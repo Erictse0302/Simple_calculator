@@ -29,8 +29,7 @@ public class cal{
           default-> System.out.println("Wrong Case");
         };
         
-        if (result != 0)
-            System.out.println("\n" + result);
+        System.out.println("The Result is" + result)
       
         sc.close();
     }
